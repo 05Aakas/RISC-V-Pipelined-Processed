@@ -49,5 +49,4 @@ FFC4A183 → LW X3,-4(X9)
 
 00832103 → LW X2, 8(X6)
 
-![Risc-v waveform](RISCV_Pipelined_waveform.png)
 
